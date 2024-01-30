@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m compute engineering student.
+- 🔭 I’m computer engineering student.
 - 🌱 I’m currently learning: 
          - Python
          - DSA  
